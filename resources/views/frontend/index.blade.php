@@ -22,8 +22,6 @@
 
   <link rel="stylesheet" type="text/css" href="../assets/vendor/owl-carousel/owl.carousel.css">
 
-  <link rel="stylesheet" type="text/css" href="../assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css">
-
   <link rel="stylesheet" type="text/css" href="../assets/vendor/nice-select/css/nice-select.css">
 
   <link rel="stylesheet" type="text/css" href="../assets/vendor/fancybox/css/jquery.fancybox.min.css">
@@ -320,7 +318,7 @@
             </div>
           </div>
         </div>
-        <div class="grid-item stanford ui-ux zoomIn">
+        {{-- <div class="grid-item stanford ui-ux zoomIn">
           <div class="img-place" data-src="../assets/img/work/Stanford Food and Nutrition.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Food and Nutrition</h5> <p>Completed on : 7 Feb 2019</p>">
             <img src="../assets/img/work/Stanford Food and Nutrition.jpg" alt="">
             <div class="img-caption">
@@ -346,7 +344,7 @@
               <p>Completed on : 05 June 2019</p>
             </div>
           </div>
-        </div>
+        </div> --}}
       </div> <!-- End gridder -->
       <div class="text-center wow fadeInUp">
         <a href="javascript:void(0)" class="btn btn-theme">Load More</a>
@@ -568,8 +566,6 @@
   <script src="../assets/js/bootstrap.bundle.min.js"></script>
 
   <script src="../assets/vendor/owl-carousel/owl.carousel.min.js"></script>
-
-  <script src="../assets/vendor/perfect-scrollbar/js/perfect-scrollbar.js"></script>
 
   <script src="../assets/vendor/isotope/isotope.pkgd.min.js"></script>
 
