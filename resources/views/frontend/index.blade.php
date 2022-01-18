@@ -724,7 +724,7 @@
 
   <script src="../assets/vendor/fancybox/js/jquery.fancybox.min.js"></script>
 
-  <script src="../assets/vendor/wow/wow.min.js"></script>
+  {{-- <script src="../assets/vendor/wow/wow.min.js"></script> --}}
 
   <script src="../assets/vendor/animateNumber/jquery.animateNumber.min.js"></script>
 
