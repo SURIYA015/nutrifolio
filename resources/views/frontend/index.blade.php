@@ -28,6 +28,8 @@
 
   <link rel="stylesheet" type="text/css" href="../assets/css/virtual.css">
 
+  <link type=" text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.12/css/lightgallery.min.css" />
+
   <link rel="stylesheet" type="text/css" href="../assets/css/topbar.virtual.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
@@ -284,46 +286,88 @@
       <h1 class="text-center fw-normal wow fadeInUp">See my Certifications</h1>
       <div class="row post-grid">
         <div class="col-md-6 col-lg-4 wow fadeInUp">
-          <div class="card">
-              <div class="img-place">
-                  <img src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
-              </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 wow fadeInUp">
-          <div class="card">
-              <div class="img-place">
-                  <img src="../assets/img/work/Cetificate for Diabetes and CVD.jpg" alt="">
-              </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 wow fadeInUp">
-          <div class="card">
-                <div class="img-place">
-                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+            <div class="card">
+                <div class="img-place certificate_gallery">
+                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    </a>
                 </div>
-          </div>
+                <div class="caption">
+                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-title">Idf School Of Diabetes</a>
+                    <span class="post-date">Completed on: August 6 , 2019</span>
+                </div>
+            </div>
         </div>
         <div class="col-md-6 col-lg-4 wow fadeInUp">
-          <div class="card">
-                <div class="img-place">
-                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+            <div class="card">
+                <div class="img-place certificate_gallery">
+                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    </a>
                 </div>
-          </div>
+                <div class="caption">
+                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-title">Idf School Of Diabetes</a>
+                    <span class="post-date">Completed on: August 6 , 2019</span>
+                </div>
+            </div>
         </div>
         <div class="col-md-6 col-lg-4 wow fadeInUp">
-          <div class="card">
-                <div class="img-place">
-                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+            <div class="card">
+                <div class="img-place certificate_gallery">
+                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    </a>
                 </div>
-          </div>
+                <div class="caption">
+                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-title">Idf School Of Diabetes</a>
+                    <span class="post-date">Completed on: August 6 , 2019</span>
+                </div>
+            </div>
         </div>
         <div class="col-md-6 col-lg-4 wow fadeInUp">
-          <div class="card">
-                <div class="img-place">
-                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+            <div class="card">
+                <div class="img-place certificate_gallery">
+                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    </a>
                 </div>
-          </div>
+                <div class="caption">
+                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-title">Idf School Of Diabetes</a>
+                    <span class="post-date">Completed on: August 6 , 2019</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+            <div class="card">
+                <div class="img-place certificate_gallery">
+                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    </a>
+                </div>
+                <div class="caption">
+                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-title">Idf School Of Diabetes</a>
+                    <span class="post-date">Completed on: August 6 , 2019</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+            <div class="card">
+                <div class="img-place certificate_gallery">
+                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    </a>
+                </div>
+                <div class="caption">
+                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-title">Idf School Of Diabetes</a>
+                    <span class="post-date">Completed on: August 6 , 2019</span>
+                </div>
+            </div>
         </div>
       </div>
     </div>
@@ -642,12 +686,21 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js" integrity="sha512-jNDtFf7qgU0eH/+Z42FG4fw3w7DM/9zbgNPe3wfJlCylVDTT3IgKW5r92Vy9IHa6U50vyMz5gRByIu4YIXFtaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.12/js/lightgallery.min.js"></script>
+
   <script>
     $('img').bind('contextmenu', function(e) {
       return false;
     });
     $(document).ready(function(){
         $('img').lazyload();
+
+        $(".certificate_gallery").lightGallery({
+            download : true,
+            escKey:true,
+            fullScreen : true,
+            arrow : false
+        });
     });
   </script>
 
