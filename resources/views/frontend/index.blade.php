@@ -275,8 +275,63 @@
     </div>
   </div>
 
+
+  <div class="vg-page page-blog" id="blog">
+    <div class="container">
+      <div class="text-center">
+        <div class="badge badge-subhead wow fadeInUp">Certificates</div>
+      </div>
+      <h1 class="text-center fw-normal wow fadeInUp">See my Certifications</h1>
+      <div class="row post-grid">
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+          <div class="card">
+              <div class="img-place">
+                  <img src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+              </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+          <div class="card">
+              <div class="img-place">
+                  <img src="../assets/img/work/Cetificate for Diabetes and CVD.jpg" alt="">
+              </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+          <div class="card">
+                <div class="img-place">
+                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+                </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+          <div class="card">
+                <div class="img-place">
+                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+                </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+          <div class="card">
+                <div class="img-place">
+                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+                </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeInUp">
+          <div class="card">
+                <div class="img-place">
+                    <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
+                </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
   <!-- Portfolio page -->
-  <div class="vg-page page-portfolio" id="portfolio">
+  {{-- <div class="vg-page page-portfolio" id="portfolio">
     <div class="container">
       <div class="text-center wow fadeInUp">
         <div class="badge badge-subhead">Certificate</div>
@@ -317,7 +372,7 @@
               <p>Completed on : 13 June 2019</p>
             </div>
           </div>
-        </div>
+        </div> --}}
         {{-- <div class="grid-item stanford ui-ux zoomIn">
           <div class="img-place" data-src="../assets/img/work/Stanford Food and Nutrition.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Food and Nutrition</h5> <p>Completed on : 7 Feb 2019</p>">
             <img src="../assets/img/work/Stanford Food and Nutrition.jpg" alt="">
