@@ -302,70 +302,70 @@
         <div class="col-md-6 col-lg-4 wow fadeInUp">
             <div class="card">
                 <div class="img-place certificate_gallery">
-                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
-                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    <a href="../assets/img/work/Cetificate for Diabetes and CVD.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Cetificate for Diabetes and CVD.jpg" alt="">
                     </a>
                 </div>
                 <div class="caption">
-                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-category">Diabetes and CVD</a>
                     <a class="post-title">Idf School Of Diabetes</a>
-                    <span class="post-date">Completed on: August 6 , 2019</span>
+                    <span class="post-date">Completed on : 11 June 2019</span>
                 </div>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 wow fadeInUp">
             <div class="card">
                 <div class="img-place certificate_gallery">
-                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
-                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    <a href="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
                     </a>
                 </div>
                 <div class="caption">
-                    <a class="post-category">Prevention of Type 2 Diabetes</a>
+                    <a class="post-category">Diabetic Retinopathy</a>
                     <a class="post-title">Idf School Of Diabetes</a>
-                    <span class="post-date">Completed on: August 6 , 2019</span>
+                    <span class="post-date">Completed on : 13 June 2019</span>
                 </div>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 wow fadeInUp">
             <div class="card">
                 <div class="img-place certificate_gallery">
-                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
-                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    <a href="../assets/img/work/Stanford Food and Nutrition.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Stanford Food and Nutrition.jpg" alt="">
                     </a>
                 </div>
                 <div class="caption">
-                    <a class="post-category">Prevention of Type 2 Diabetes</a>
-                    <a class="post-title">Idf School Of Diabetes</a>
-                    <span class="post-date">Completed on: August 6 , 2019</span>
+                    <a class="post-category">Food and Nutrition</a>
+                    <a class="post-title">University Of Stanford</a>
+                    <span class="post-date">Completed on : 7 Feb 2019</span>
                 </div>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 wow fadeInUp">
             <div class="card">
                 <div class="img-place certificate_gallery">
-                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
-                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    <a href="../assets/img/work/Diabetes-The essential facts.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/Diabetes-The essential facts.jpg" alt="">
                     </a>
                 </div>
                 <div class="caption">
-                    <a class="post-category">Prevention of Type 2 Diabetes</a>
-                    <a class="post-title">Idf School Of Diabetes</a>
-                    <span class="post-date">Completed on: August 6 , 2019</span>
+                    <a class="post-category">Diabetes-The essential facts</a>
+                    <a class="post-title">University Of Copenhagen</a>
+                    <span class="post-date">Completed on : 19 June 2019</span>
                 </div>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 wow fadeInUp">
             <div class="card">
                 <div class="img-place certificate_gallery">
-                    <a href="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg">
-                    <img class="setgalleryimg" src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
+                    <a href="../assets/img/work/certificate for starter Nutrition Course.jpg">
+                    <img class="setgalleryimg" src="../assets/img/work/certificate for starter Nutrition Course.jpg" alt="">
                     </a>
                 </div>
                 <div class="caption">
-                    <a class="post-category">Prevention of Type 2 Diabetes</a>
-                    <a class="post-title">Idf School Of Diabetes</a>
-                    <span class="post-date">Completed on: August 6 , 2019</span>
+                    <a class="post-category">starter Nutrition Course</a>
+                    <a class="post-title">Health and Sciences Academy</a>
+                    <span class="post-date">Completed on : 05 June 2019</span>
                 </div>
             </div>
         </div>
@@ -696,7 +696,7 @@
         $('img').lazyload();
 
         $(".certificate_gallery").lightGallery({
-            download : true,
+            download : false,
             escKey:true,
             fullScreen : true,
             arrow : false

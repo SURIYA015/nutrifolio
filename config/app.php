@@ -54,6 +54,8 @@ return [
 
     'url' => env('APP_URL', 'http://localhost'),
 
+    'mail_to_address'=>env('MAIL_TO_ADDRESS'),
+
     'asset_url' => env('ASSET_URL', null),
 
     /*
