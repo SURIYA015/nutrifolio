@@ -371,7 +371,7 @@
       </div>
 
       <div class="gridder my-3">
-        <div class="grid-item ecmec wow zoomIn">
+        <div class="grid-item ecmec zoomIn">
           <div class="img-place" data-src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" data-fancybox data-caption="<h5 class='fg-theme'>PREVENTION ON TYPE 2 DIABETES</h5> <p>Completed on : 10 June 2019</p>">
             <img src="../assets/img/work/Certificate for Prevention of Type 2 Diabetes.jpg" alt="">
             <div class="img-caption">
@@ -380,7 +380,7 @@
             </div>
           </div>
         </div>
-        <div class="grid-item ecmec wireframes wow zoomIn">
+        <div class="grid-item ecmec wireframes zoomIn">
           <div class="img-place" data-src="../assets/img/work/Cetificate for Diabetes and CVD.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Diabetes and CVD</h5> <p>Completed on : 11 June 2019</p>">
             <img src="../assets/img/work/Cetificate for Diabetes and CVD.jpg" alt="">
             <div class="img-caption">
@@ -389,7 +389,7 @@
             </div>
           </div>
         </div>
-        <div class="grid-item ecmec ios wow zoomIn">
+        <div class="grid-item ecmec ios zoomIn">
           <div class="img-place" data-src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Diabetic Retinopathy</h5> <p>Completed on : 13 June 2019</p>">
             <img src="../assets/img/work/Cetificate in Diabetic Retinopathy.jpg" alt="">
             <div class="img-caption">
@@ -398,7 +398,7 @@
             </div>
           </div>
         </div>
-        <div class="grid-item stanford ui-ux wow zoomIn">
+        <div class="grid-item stanford ui-ux zoomIn">
           <div class="img-place" data-src="../assets/img/work/Stanford Food and Nutrition.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Food and Nutrition</h5> <p>Completed on : 7 Feb 2019</p>">
             <img src="../assets/img/work/Stanford Food and Nutrition.jpg" alt="">
             <div class="img-caption">
@@ -407,7 +407,7 @@
             </div>
           </div>
         </div>
-        <div class="grid-item copenhagen ios wow zoomIn">
+        <div class="grid-item copenhagen ios zoomIn">
           <div class="img-place" data-src="../assets/img/work/Diabetes-The essential facts.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Diabetes-The essential facts</h5> <p>Completed on : 19 June 2019</p>">
             <img src="../assets/img/work/Diabetes-The essential facts.jpg" alt="">
             <div class="img-caption">
@@ -416,7 +416,7 @@
             </div>
           </div>
         </div>
-        <div class="grid-item hsc ui-ux wireframes wow zoomIn">
+        <div class="grid-item hsc ui-ux wireframes zoomIn">
           <div class="img-place" data-src="../assets/img/work/certificate for starter Nutrition Course.jpg" data-fancybox data-caption="<h5 class='fg-theme'>starter Nutrition Course</h5> <p>Completed on : 05 June 2019</p>">
             <img src="../assets/img/work/certificate for starter Nutrition Course.jpg" alt="">
             <div class="img-caption">
