@@ -40,7 +40,7 @@ class ContactController extends Controller
         //     ]);
         // }
 
-        return redirect()->route('frontend.index');
+        return redirect()->route('frontend.welcome');
 
 
     }
