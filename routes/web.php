@@ -19,5 +19,4 @@ Route::domain(config('app.web_domain'))->group(function () {
     })->name('frontend.index');
     Route::post('contact', [ContactController::class, 'storeContact'])
     ->name('contact.store');
-    Route::get('/contact', [ContactController::class, 'index'])->name('welcome.index');
 });
