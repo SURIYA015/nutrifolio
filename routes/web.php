@@ -17,7 +17,7 @@ Route::domain(config('app.web_domain'))->group(function () {
     Route::get('/', function () {
         return view('frontend.index');
     })->name('frontend.index');
-    // Route::post('contact', [ContactController::class, 'storeContact'])
-    // ->name('contact.store');
+    Route::post('contact', [ContactController::class, 'storeContact'])
+    ->name('contact.store');
     Route::get('/contact', [ContactController::class, 'index'])->name('welcome.index');
 });
