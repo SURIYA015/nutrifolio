@@ -9,6 +9,7 @@ use Illuminate\Http\Request;
 
 class ContactController extends Controller
 {
+
     public function storeContact(Request $request){
         // $validator = Validator::make($request->all(), [
         //     'name' => 'required|string|min:3|max:30',
@@ -40,7 +41,7 @@ class ContactController extends Controller
         //     ]);
         // }
 
-        return view('frontend.welcome');
+        // return view('frontend.welcome');
 
 
     }
