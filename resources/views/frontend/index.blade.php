@@ -574,8 +574,7 @@
           </div>
         </div>
         <div class="col-lg-5">
-          <form action="{{route('contact.store')}}" method="post" class="vg-contact-form">
-                        @csrf
+          <form action="{{route('contact.store')}}" method="get" class="vg-contact-form">
             <div class="form-row">
               <div class="col-12 mt-3 wow fadeInUp">
                 <input class="form-control" value="{{old('name')}}" maxlength="30" minlength="3" type="text" name="name" placeholder="Your Name" required>

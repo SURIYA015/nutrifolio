@@ -18,6 +18,6 @@ Route::domain(config('app.web_domain'))->group(function () {
     Route::get('/', function () {
         return view('frontend.index');
     })->name('frontend.index');
-    Route::post('contact', [MessageController::class, 'storeContact'])
+    Route::get('contact', [MessageController::class, 'storeContact'])
     ->name('contact.store');
 });
