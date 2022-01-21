@@ -40,7 +40,7 @@ class ContactController extends Controller
         //     ]);
         // }
 
-        return redirect()->back();
+        return view('frontend.index');
 
 
     }
