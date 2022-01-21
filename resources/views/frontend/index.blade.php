@@ -105,7 +105,7 @@
               <a href="#about" class="nav-link" data-animate="scrolling">About</a>
             </li>
             <li class="nav-item">
-              <a href="#portfolio" class="nav-link" data-animate="scrolling">Certifications</a>
+              <a href="#certificate" class="nav-link" data-animate="scrolling">Certifications</a>
             </li>
             <li class="nav-item">
               <a href="#blog" class="nav-link" data-animate="scrolling">Blog</a>
@@ -278,7 +278,7 @@
   </div>
 
 
-  <div class="vg-page page-blog" id="blog">
+  <div class="vg-page page-blog" id="certificate">
     <div class="container">
       <div class="text-center">
         <div class="badge badge-subhead wow fadeInUp">Certificates</div>
