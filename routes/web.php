@@ -1,5 +1,6 @@
 <?php
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\MessageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,6 +18,6 @@ Route::domain(config('app.web_domain'))->group(function () {
     Route::get('/', function () {
         return view('frontend.index');
     })->name('frontend.index');
-    Route::post('contact', [ContactController::class, 'storeContact'])
+    Route::post('contact', [MessageController::class, 'storeContact'])
     ->name('contact.store');
 });
