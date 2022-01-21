@@ -11,7 +11,7 @@ class ContactController extends Controller
 {
 
     public function storeContact(Request $request){
-        dd($request->input());
+        // dd($request->input());
         // $validator = Validator::make($request->all(), [
         //     'name' => 'required|string|min:3|max:30',
         //     'email' => 'required|email:rfc,dns|min:5|max:50',
@@ -42,7 +42,7 @@ class ContactController extends Controller
         //     ]);
         // }
 
-        // return view('frontend.welcome');
+        return view('frontend.welcome');
 
 
     }
