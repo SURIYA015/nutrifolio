@@ -36,18 +36,6 @@
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 </head>
 <body class="theme-red">
-  <script>
-    $(document).ready(function(){
-      @if(session()->has('success'))
-        toastr.success("{{ session('success') }}")
-      @elseif(session()->has('error'))
-        toastr.error("{{ __(session('error')) }}")
-      @elseif(session()->has('info'))
-        toastr.info("{{ session('info') }}")
-      @endif
-    });
-  </script>
-
   <!-- Back to top button -->
   <div class="btn-back_to_top">
     <span class="ti-arrow-up"></span>
@@ -700,6 +688,14 @@
             fullScreen : true,
             arrow : false
         });
+
+        @if(session()->has('success'))
+            toastr.success("{{ session('success') }}")
+         @elseif(session()->has('error'))
+            toastr.error("{{ __(session('error')) }}")
+         @elseif(session()->has('info'))
+            toastr.info("{{ session('info') }}")
+        @endif
     });
   </script>
 
