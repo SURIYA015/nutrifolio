@@ -695,6 +695,7 @@
 
         @if(session()->has('success'))
             toastr.success("{{ session('success') }}")
+            console.log("{{ session('success') }}");
          @elseif(session()->has('error'))
             toastr.error("{{ (session('error')) }}")
          @elseif(session()->has('info'))
