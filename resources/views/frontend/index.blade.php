@@ -565,6 +565,7 @@
           <form action="{{route('contact.store')}}" method="get" class="vg-contact-form">
             <div class="form-row">
                 <div class="text-success">
+                    {{session()->flash('success','Message Sent Successfully')}}
                     {{ session('success') }}
                 </div>
               <div class="col-12 mt-3 wow fadeInUp">
@@ -695,7 +696,7 @@
         @if(session()->has('success'))
             toastr.success("{{ session('success') }}")
          @elseif(session()->has('error'))
-            toastr.error("{{ __(session('error')) }}")
+            toastr.error("{{ (session('error')) }}")
          @elseif(session()->has('info'))
             toastr.info("{{ session('info') }}")
         @endif

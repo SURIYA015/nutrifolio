@@ -32,12 +32,6 @@ class MessageController extends Controller
 
         if(!Mail::failures()){
             session()->flash('success','Message Sent Successfully');
-            if(session()->has('success')){
-                dd('success');
-            }
-            elseif(session()->has('error')){
-                dd('failed');
-            }
             return redirect()->to('/'.'#contact');
         }
         else{
