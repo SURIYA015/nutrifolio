@@ -565,7 +565,6 @@
           <form action="{{route('contact.store')}}" method="get" class="vg-contact-form">
             <div class="form-row">
                 <div class="text-success">
-                    {{session()->flash('success','Message Sent Successfully')}}
                     {{ session('success') }}
                 </div>
               <div class="col-12 mt-3 wow fadeInUp">
